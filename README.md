@@ -1,10 +1,6 @@
 # Software Engineering Principles
 
-## Conventions
-###    Methods
-####      Named after what they do with a verb
-####      Do only one thing
-####      Data comes last in signature
+
 
 ## Programming
 ### Functional
@@ -19,6 +15,11 @@
 #### Higher order functions
 ### Composition over inheritance
 ### Boy-scout rule
+### Conventions
+####    Methods
+#####      Named after what they do with a verb
+#####      Do only one thing
+#####      Data comes last in signature
 
 ## Features
 ### ROI
