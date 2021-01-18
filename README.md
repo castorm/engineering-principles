@@ -1,6 +1,8 @@
 # Software Engineering Principles
 Collection of software engineering concepts, principles, laws, practices, patterns and properties worth having present in the software engineer's practice.
 
+![Mind Map](./README.md.svg)
+
 
 ## Basics
 ### Don't reinvent the wheel
